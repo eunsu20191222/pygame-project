@@ -1,2 +1,4 @@
 # pygame-project
-for the fu
+for the future
+with pygame
+
